@@ -1,0 +1,42 @@
+[
+	{
+		"team": "Uruguay",
+		"group": "A",
+		"points": 9
+	},
+	{
+		"team": "Russia",
+		"group": "A",
+		"points": 6
+	},
+	{
+		"team": "Saudi Arabia",
+		"group": "A",
+		"points": 3
+	},
+	{
+		"team": "Egypt",
+		"group": "A",
+		"points": 0
+	},
+	{
+		"team": "Spain",
+		"group": "B",
+		"points": 5
+	},
+	{
+		"team": "Portugal",
+		"group": "B",
+		"points": 5
+	},
+	{
+		"team": "Iran",
+		"group": "B",
+		"points": 4
+	},
+	{
+		"team": "Morocco",
+		"group": "B",
+		"points": 1
+	}
+]
